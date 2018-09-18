@@ -1,0 +1,42 @@
+.Header {
+	background-image: url(img/slider.png);
+	background-position: bottom;
+	height: 245px;
+	width: 912px;
+	background-repeat: no-repeat;
+	padding: 0px;
+}
+.espaço{
+	padding-left: 5px;
+}
+.boxqueseguraoutra {
+	width: 903px;
+	margin-top: 10px;
+
+
+
+	-moz-border-radius: 3px 3px 3px 3px;
+	-webkit-border-radius: 3px 3px 3px 3px;
+	border-radius: 3x 3px 3px 3px;
+	padding: 5px;
+	background-image: url(img/ba.png);
+}
+.boxwoe{
+	background-image: url(img/box.png);
+	height: 71px;
+	width: 250px;
+	margin-top: 5px;
+}
+.boxwoecontinua{
+	background-color: #FFFFFF;
+	height: auto;
+	width: 250px;
+
+	-moz-border-radius: 0px 0px 3px 3px;
+	-webkit-border-radius: 0px 0px 3px 3px;
+	border-radius: 0x 0px 3px 3px;
+	margin-bottom: 5px;
+}
+.espaçonovo{
+	margin-bottom: 5px;
+}
